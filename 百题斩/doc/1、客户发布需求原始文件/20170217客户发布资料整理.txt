@@ -1,0 +1,6 @@
+1、web系统地址
+http://www.baitizhan.com/index.php?s=/Home/Index
+2、用户账号密码
+用户名：1005814292 密码：123456
+3、手机App需求
+http://www.kancloud.cn/xwjonline/baitizhan_app_chm
